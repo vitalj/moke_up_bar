@@ -1,0 +1,11 @@
+footer{
+    height:310px;
+    background-color: #d73351;
+    align-items: center;
+}
+
+.form{
+    background-image: url("../backgroundcontact.jpg");
+    background-repeat: no-repeat;
+    height: 1000px;
+}
