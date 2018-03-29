@@ -201,5 +201,34 @@ h3{
     width:200px;
 }
 
+footer .p2{
+    margin-bottom:4%
+}
+
+
+.logos{
+ 
+
+ 
+    padding-top:0;
+    display: flex;
+    justify-content:;
+    align-items: center;
+    margin-left:25%;
+    margin-top: 8%;
+}
+
+footer img{
+
+    margin-top: 30px;
+    height: 100px;
+    width: 100px;
+}
+
+footer .txtcenter{
+    margin-top: -6%;
+ 
+}
+
 
 }
