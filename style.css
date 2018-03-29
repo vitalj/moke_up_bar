@@ -1,0 +1,102 @@
+
+footer{
+    height:310px;
+    background-color: #d73351;
+    align-items: center;
+
+}
+
+footer .p1{
+    margin-top:15%;
+}
+.flexenter{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left:3%;
+    padding-top:10%;
+}
+.engagement p{
+    font-size: 12pt;
+    margin-top: 30px;
+    padding-right:10px;
+}
+.engagement img{
+    margin:auto;
+}
+
+.engagment{
+    text-align: center;
+}
+.form{
+    background-image: url("assets/medias/backgroundformmobile.jpg");
+    background-repeat: no-repeat;
+    height: 698px;
+    background-size: 100%;
+
+}
+.inputs{
+    border: 0;
+     outline: 0;
+    background: transparent;
+    border-bottom: 2px solid #d73351;
+
+}
+.form .itemcontact{
+    margin-top:15%;
+}
+.send{
+    text-align:center;
+   margin-left:26%;
+   margin-top:12%;
+
+}
+.form h3{
+    width:100%;
+    text-align: center;
+    padding-top:5%;
+}
+
+.backform{
+    background-color: rgba(255, 255, 255, 0.849);
+    height: 580px;
+    margin: 26px;
+    padding-left: 11%;
+}
+
+.engagement{
+    text-align: center;
+}
+
+.engagement{
+    height: 800px;
+   margin-top: 20px;
+}
+
+.passkeu{
+    width: 100%;
+}
+
+.engagement h3{
+    text-align: center;
+    width:100%;
+}
+footer img{
+    margin-left:;
+    margin-top: 30px;
+}
+footer p{
+    font-size: 1.2rem;
+    color:white;
+}
+
+
+.txtcenter{
+    text-align: center;
+}
+
+.slider{
+    background-color: black;
+    height: 200px;
+    background-size: 100%;
+}
