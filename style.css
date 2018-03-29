@@ -28,9 +28,9 @@
 }
 
 footer{
-    height:310px;
+   
     background-color: #d73351;
-    align-items: center;
+
 
 }
 h3{
@@ -72,8 +72,10 @@ footer .p1{
 .form{
     background-image: url("assets/medias/backgroundformmobile.jpg");
     background-repeat: no-repeat;
-    height: 698px;
-    background-size: 100%;
+    margin:auto 0;
+    background-size: cover;
+    padding-bottom:8%;
+    
 
 }
 .inputs{
@@ -101,11 +103,15 @@ footer .p1{
 
 .backform{
     background-color: rgba(255, 255, 255, 0.849);
-    height: 580px;
-    margin: 26px;
+    width:100%;
+
+    
+    
     padding-left: 11%;
 }
-
+.send{
+    margin-bottom:15%;
+}
 .engagement{
     text-align: center;
 }
@@ -115,6 +121,10 @@ footer .p1{
    margin-top: 20px;
 }
 
+.engagement img{
+    height: 100px;
+    width:100px;
+}
 .passkeu{
     width: 100%;
 }
@@ -135,6 +145,9 @@ footer p{
     color:white;
 }
 
+footer .p2{
+    margin-bottom:15%
+}
 .slider img {
     width: 100%;
     margin-bottom: 14%;
@@ -157,4 +170,28 @@ footer p{
 
 .slider carousel-indicators{
     margin-top:4%;
+}
+
+
+@media (min-width: 900px){
+
+
+
+h3{
+    font-size:3rem;
+}
+
+.logostxt{
+    margin-top:10%;
+    margin-left:5%;
+    display:flex;
+    justify-content: space-around;
+}
+
+.engagement img{
+    height: 200px;
+    width:200px;
+}
+
+
 }
