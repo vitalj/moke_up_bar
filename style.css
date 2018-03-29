@@ -17,10 +17,18 @@
 
 .title-header {
     color: white;
+    font-family: afternight;
+    background-color: rgba(0, 0, 0, 0.342);
+    text-align: center;
 }
 
 .title-header-2 {
     color: white;
+    background-color: rgba(0, 0, 0, 0.342);
+    text-align: center;
+    font-family: afternight;
+
+
 }
 
 .navbar-toggler-icon {
