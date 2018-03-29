@@ -1,15 +1,18 @@
-@font-face {
-    font-family: "afternight";
-    src: url("assets/fonts/afternight.ttf");
-           
-   }
-
-
+.logo {
+    height: 60px;
+    width: 60px;
+}
+.bk-header {
+    background-image: url('assets/medias/background-header.png');
+    background-size: cover;
+    height: 154px;
+    width: 100%;
+}
 footer{
     height:310px;
     background-color: #d73351;
     align-items: center;
-   
+
 }
 h3{
     font-family: 'afternight';
@@ -52,14 +55,14 @@ footer .p1{
     background-repeat: no-repeat;
     height: 698px;
     background-size: 100%;
-    
+
 }
 .inputs{
     border: 0;
      outline: 0;
     background: transparent;
     border-bottom: 2px solid #d73351;
-   
+
 }
 .form .itemcontact{
     margin-top:15%;
@@ -68,8 +71,6 @@ footer .p1{
     text-align:center;
    margin-left:26%;
    margin-top:12%;
-  
-   
 }
 
 .form h3{
@@ -106,7 +107,7 @@ footer .p1{
     width:100%;
 }
 footer img{
-    margin-left:;
+
     margin-top: 30px;
 }
 footer p{
