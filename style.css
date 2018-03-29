@@ -1,4 +1,13 @@
-
+.logo {
+    height: 60px;
+    width: 60px;
+}
+.bk-header {
+    background-image: url('assets/medias/background-header.png');
+    background-size: cover;
+    height: 154px;
+    width: 100%;
+}
 footer{
     height:310px;
     background-color: #d73351;
