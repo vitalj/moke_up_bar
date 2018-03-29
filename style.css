@@ -8,6 +8,19 @@
     height: 154px;
     width: 100%;
 }
+
+.title-header {
+    color: white;
+}
+
+.title-header-2 {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    color: #d73351 !important;
+}
+
 footer{
     height:310px;
     background-color: #d73351;
